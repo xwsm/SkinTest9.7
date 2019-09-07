@@ -18,9 +18,6 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 /**
- * 2019 重庆指讯科技股份有限公司
- *
- * @author: Wsm
  * @date: 2019/6/19 16:10
  * @description: 动态加载技术，用来加载第三方插件Apk的资源对象
  */

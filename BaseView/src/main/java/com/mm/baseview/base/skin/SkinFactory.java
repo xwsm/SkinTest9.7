@@ -21,9 +21,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 2019 重庆指讯科技股份有限公司
- *
- * @author: Wsm
  * @date: 2019/6/19 15:32
  * @description:
  */

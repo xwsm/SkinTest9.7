@@ -13,9 +13,6 @@ import com.mm.baseview.base.IActivity;
 import static android.content.pm.PackageManager.PERMISSION_GRANTED;
 
 /**
- * 2019 重庆指讯科技股份有限公司
- *
- * @author: Wsm
  * @date: 2019/6/19 15:29
  * @description:
  */
